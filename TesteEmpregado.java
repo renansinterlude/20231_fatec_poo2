@@ -26,6 +26,5 @@ public class TesteEmpregado {
         for(i=0; i<empregados.size(); i++) {
             System.out.println(empregados.get(i).calcularSalario());
         }
-        //nao sei o que isso significa
     }
 }
